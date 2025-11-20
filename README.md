@@ -1,7 +1,7 @@
 # IT3 PVY - Návrh vlastní relační databáze
 
 ## 🏊 Databáze plaveckých závodů
-relační databáze pro správu plavců, týmů, závodů a soutěžních událostí.
+Relační databáze pro správu plavců, týmů, závodů a soutěžních událostí.
 
 ## 📦 Přehled tabulek
 
