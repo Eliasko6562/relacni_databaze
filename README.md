@@ -28,3 +28,8 @@ Ukládá údaje o plavcích, jejich parametrech a příslušnosti k týmu a věk
 
 ### **team**
 Reprezentuje týmy v systému, včetně země původu a počtu členů.
+
+## DB Diagram Reference
+[https://dbdiagram.io/d/Swimmin_AI-6910ea116735e11170f37690](https://dbdiagram.io/d/Swimmin_AI-6910ea116735e11170f37690)
+
+![swim-schema]()
