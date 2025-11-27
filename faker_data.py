@@ -154,7 +154,7 @@ def insert_lines(table, columns, rows):
     sql_lines.append("")
 
 insert_lines("age_category", ["category_id", "name", "min_age", "max_age"], age_category)
-insert_lines("team", ["team_id", "name", "country", "member_count"], team)
+insert_lines("team", ["team_id", "name", "country"], team)
 insert_lines("discipline", ["discipline_id", "name"], discipline)
 insert_lines("race_events", ["event_id", "name", "event_date", "start_time", "location", "price"], race_events)
 insert_lines("coach", ["coach_id", "team_id", "first_name", "surname", "birthdate", "telephone", "email"], coach)
@@ -165,5 +165,6 @@ insert_lines("race_swimmer", ["race_id", "swimmer_id"], race_swimmer)
 output_path = "swim_demo_dataNEW.sql"
 with open(output_path, "w", encoding="utf-8") as f:
     f.write("\n".join(sql_lines))
+
 
 output_path
