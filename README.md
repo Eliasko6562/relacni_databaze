@@ -32,5 +32,4 @@ Reprezentuje týmy v systému, včetně země původu a počtu členů.
 ## DB Diagram Reference
 [https://dbdiagram.io/d/swim-schema-6910ea116735e11170f37690](https://dbdiagram.io/d/swim-schema-6910ea116735e11170f37690)
 
-![swim-schema](<img width="1058" height="482" alt="image" src="https://github.com/user-attachments/assets/40ce78a1-531a-4d63-b17c-9b69a06085f9" />)
-
+![swim_schema](https://github.com/user-attachments/assets/0df037e4-34db-4e37-a31d-9278e3637f0b)
